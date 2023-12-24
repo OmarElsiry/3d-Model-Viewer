@@ -1,4 +1,4 @@
-# shareable_3dviewer
+# 3d-Model viewer
 
 ## in order to change the 3dmodel :
   open assets folder replace "MyModel.glb" with your prefered 3dmodel and rename it to "MyModel.glb"
