@@ -1,16 +1,8 @@
 # shareable_3dviewer
 
-A new Flutter project.
+## in order to change the 3dmodel :
+  open assets folder replace "MyModel.glb" with your prefered 3dmodel and rename it to "MyModel.glb"
+## you can download 3dmodels for free from sketchfab.com 
+  notice that when downloading 3dmodels always downlaod .glb files only
+## Currently the app has a small error ,So in order to run always use the debug version instead of release version
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
