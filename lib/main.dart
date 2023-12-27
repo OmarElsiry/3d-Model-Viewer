@@ -116,7 +116,7 @@ class _CameraScreenState extends State<CameraScreen> {
             ),
             Visibility(
               visible: !_isModelHidden,
-              child: const Center(child: O3D.asset(src: 'assets/MyModel.glb')),
+              child: const Center(child: O3D.asset(src: 'assets/MyModel.glb',ar :true)),
             ),
             Align(
               alignment: Alignment.bottomCenter,
